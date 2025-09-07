@@ -3,8 +3,10 @@
 Welcome to Bulla Store! This is an e-commerce project for Universidad de Chile T-shirts, featuring an innovative AI-powered "Virtual Try-On" feature created with gemini-2.5-flash-image-preview (nano banana).
 
 ## 🚀 Demo
-
+```
+bash
 https://www.youtube.com/watch?v=7YOsYf4nofs
+``
 ---
 
 ## ✨ Features
