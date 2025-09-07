@@ -4,8 +4,7 @@ Welcome to Bulla Store! This is an e-commerce project for Universidad de Chile T
 
 ## 🚀 Demo
 
-[Link to the live demo of the project]
-
+https://www.youtube.com/watch?v=7YOsYf4nofs
 ---
 
 ## ✨ Features
