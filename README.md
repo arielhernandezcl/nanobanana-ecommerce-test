@@ -38,7 +38,7 @@ Make sure you have Node.js and npm (or yarn/pnpm) installed on your machine.
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/arielhernandezcl/nanobanana-ecommerce.git](https://github.com/arielhernandezcl/nanobanana-ecommerce.git)
+    git clone [https://github.com/arielhernandezcl/nanobanana-ecommerce-test]
     ```
 
 2.  **Navigate to the project directory:**
